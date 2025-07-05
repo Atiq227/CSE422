@@ -1,1 +1,1 @@
-# CSE422
+# CSE422 Lab Assignments and Project
